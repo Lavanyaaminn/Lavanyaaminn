@@ -1,7 +1,5 @@
 [![An image of @lavanyaaminn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lavanyaaminn)](https://holopin.io/@lavanyaaminn)
-<a href="https://holopin.io/@kochie">
-  <img src="https://holopin.me/kochie" alt="@kochie's Holopin board" />
-</a>
+
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F92672&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lavanya!;" />
 </h1>
