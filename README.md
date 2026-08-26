@@ -7,8 +7,7 @@
 🎓 Turning curiosity into practical projects as an Information Science student at AJIET.  <br>🔎 Exploring patterns in data and finding ways to make software better.
   <br>🌱 Learning, experimenting, and building something new every day.
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Lavanyaaminn&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Lavanyaaminn&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Lavanyaaminn&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lavanyaaminn&icon=0&color=0)](https://visitcount.itsvg.in)
